@@ -27,7 +27,7 @@ bot = InstaBot(
     proxy='',
     # List of list of words, each of which will be used to generate comment
     # For example: "This shot feels wow!"
-    comment_list=[["this", "the", "your"],
+    comment_list=[["هلا", "تعالا", "تبى"],
                   ["photo", "picture", "pic", "shot", "snapshot"],
                   ["is", "looks", "feels", "is really"],
                   ["great", "super", "good", "very good", "good", "wow",
